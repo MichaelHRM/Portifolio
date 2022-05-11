@@ -34,7 +34,7 @@ Alguns projetos desenvolvidos :
 
    * <b>Dados Covid - Simples Pipeline de Dados:</b>
       *  <a href= https://github.com/MichaelHMorei/projeto-monitoramento-cvid >Jupyter Notebook</a>
- * <b>Dados Covid - Simples Orquestração de Pipeline usando o Airflow:</b>
+   * <b>Dados Covid - Simples Orquestração de Pipeline usando o Airflow:</b>
       * NA
  
 * <b>Análise exploratoria</b>
