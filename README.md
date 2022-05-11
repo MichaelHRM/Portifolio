@@ -31,11 +31,12 @@ Possui graduação em Análise e Desenvolvimento de Sistemas, MBA em BIG Data e 
 Alguns projetos desenvolvidos :
 
 * <b>Pipelines De Dados</b>
-*
- * <b>Dados Covid - Simples Pipeline de Dados:</b>
-   *  https://github.com/MichaelHMorei/projeto-monitoramento-cvid
+
+   * <b>Dados Covid - Simples Pipeline de Dados:</b>
+      *  https://github.com/MichaelHMorei/projeto-monitoramento-cvid
  * NA
  * NA
+ 
 * <b>Análise exploratoria</b>
   * NA
   * NA    
