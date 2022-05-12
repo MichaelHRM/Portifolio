@@ -35,7 +35,7 @@ Alguns projetos desenvolvidos :
    * <b>Dados Covid - Simples Pipeline de Dados:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APICovid-Pipeline-SqlServer.ipynb >Jupyter Notebook</a>
    * <b>Simples Orquestração de Pipeline usando o Airflow:</b>
-      *  <a href= https://>GCP- Airflow</a>
+      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
  
 * <b>Análise exploratoria</b>
   * NA
