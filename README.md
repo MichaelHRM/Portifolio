@@ -37,7 +37,7 @@ Alguns projetos desenvolvidos :
    * <b>Simples Orquestração de Pipeline usando o Airflow:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
    * <b>Processando BIG Data com PySpark DataBricks:</b>
-      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>DataBricks- PySPark</a>
+      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>Databricks- PySPark</a>
    
  
 * <b>Análise exploratoria</b>
