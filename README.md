@@ -36,7 +36,7 @@ Alguns projetos desenvolvidos :
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APICovid-Pipeline-SqlServer.ipynb >Jupyter Notebook</a>
    * <b>Simples Orquestração de Pipeline usando o Airflow:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
-   * <b>Processando BIG Data com PySpark DataBricks:</b>
+   * <b>Processando de dados com PySpark DataBricks:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/ProcessDataSparkDatabricks.ipynb>Databricks- PySPark</a>
    
  
