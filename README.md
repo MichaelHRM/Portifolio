@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Possui graduação em Análise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligência Competitiva.
 
-- 🔭 Atualmente estou trabalhando como **Análista de Sistemas em uma multinacional**
+- 🔭 Atualmente estou trabalhando como **Analista de Sistemas em uma multinacional**
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, SQL e etc**
 - 📫 Fale comigo em **michael.h.moreira@gmail.com**
