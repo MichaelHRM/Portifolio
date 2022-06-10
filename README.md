@@ -36,14 +36,17 @@ Alguns projetos desenvolvidos :
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APICovid-Pipeline-SqlServer.ipynb >Jupyter Notebook</a>
    * <b>Simples Orquestração de Pipeline usando o Airflow:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
-   * <b>Processando de dados com PySpark DataBricks:</b>
-      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/ProcessDataSparkDatabricks.ipynb>Databricks- PySPark</a>
    * <b>Consumindo dados da API Twitter e enviado para o S3:</b>
       *  <a >API Twitter + S3 (Em desenvolvimento)</a>
    
  
-* <b>Análise exploratoria</b>
-  * Em desenvolvimento.   
+* <b>Processamento de Dados com Spark</b>
+
+   * <b>Processando de dados com PySpark DataBricks:</b>
+      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/ProcessDataSparkDatabricks.ipynb>Databricks- PySPark</a>
+
+
+
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
