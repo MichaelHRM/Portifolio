@@ -37,7 +37,7 @@ Alguns projetos desenvolvidos :
    * <b>Simples Orquestração de Pipeline usando o Airflow:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
    * <b>Consumindo dados da API Twitter e enviado para o S3:</b>
-      *  <a >API Twitter + S3 (Em desenvolvimento)</a>
+      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APITwitter-s3-Glue.ipynb>API Twitter + S3 (Em desenvolvimento)</a>
    
  
 * <b>Processamento de Dados com Spark</b>
