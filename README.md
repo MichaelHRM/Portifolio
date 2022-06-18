@@ -38,6 +38,8 @@ Alguns projetos desenvolvidos :
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/DAGs-apiCovid.py>GCP- Airflow</a>
    * <b>Consumindo dados da API Twitter e enviado para um bucket S3:</b>
       *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APITwitter-s3-Glue.ipynb>API Twitter + S3 + Glue</a>
+   * <b>Pipeline Python + S3 + Lambda + Glue + SNS:</b>
+      *  <a href= https://github.com/MichaelHMorei/Portifolio/blob/main/APICovid-S3-Lambda-Glue-Sns.ipynb>Pipeline AWS </a>
    
  
 * <b>Processamento de Dados com Spark</b>
