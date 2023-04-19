@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Michael Henrique Moreira</h1>
-<align="left"><i>Um Engenheiro de Dados em formação</i>
+<align="left"><i>Um Engenheiro de Dados em constante aprendizado</i>
 <p></p>
 
 Possui graduação em Análise e Desenvolvimento de Sistemas, MBA em BIG Data e Inteligência Competitiva.
 
-- 🔭 Atualmente estou trabalhando como **Analista de Sistemas em uma multinacional**
+- 🔭 Atualmente estou trabalhando como **Engenheiro de Dados em uma instituição financeira*
 - 👯 Eu procuro aprender e colaborar com **Projetos de engenharia de dados, ciência de dados e IA**
 - 💬 Me pergunte sobre **tecnologia, ciência de dados, SQL e etc**
 - 📫 Fale comigo em **michael.h.moreira@gmail.com**
